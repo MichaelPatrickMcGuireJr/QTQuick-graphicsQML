@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI1_images/arrow.png</file>
+        <file>UI1_images/speedometer.png</file>
+        <file>UI1_images/speedometer.xcf</file>
+    </qresource>
+</RCC>
